@@ -16,4 +16,4 @@ Below I am attaching image of documentation.
 Below is attached image for endpoint with POST method.
 
 
-<img src=hhttps://github.com/Nitesh232/REST-API_Documentation_with_Swagger/blob/main/post.PNG width="1300" >
+<img src=https://github.com/Nitesh232/REST-API_Documentation_with_Swagger/blob/main/post.PNG width="1300" >
